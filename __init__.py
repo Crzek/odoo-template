@@ -1,3 +1,2 @@
-
 # models
-from models.model import Todo
+from . import models

@@ -8,9 +8,8 @@
     'license': 'AGPL-3',
     'category': 'Extra Tools',
     'summary': 'Short summary.',
-    'depends': ['base'],
     'data': [
         'views/view.xml',
+        'security/security.xml'
     ],
-    'images': [''],
 }
