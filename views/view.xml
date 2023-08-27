@@ -24,7 +24,7 @@
     <!-- Definición de menú -->
     <menuitem
         id="todo_menu"
-        name="todo"
+        name="Todo"
         action="todo_action"
         parent=""
         sequence="10"/>

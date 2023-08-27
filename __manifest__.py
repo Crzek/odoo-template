@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Name proy',
+    'name': 'Lista tareas',
     'version': '1.0',
     'summary': 'short description',
     'description': 'Desripción detallada del módulo y su funcionalidad.',
@@ -10,6 +10,8 @@
     'summary': 'Short summary.',
     'data': [
         'views/view.xml',
-        'security/security.xml'
+        # 'security/security.xml'
+        'security/ir.model.access.csv'
     ],
+    'images': ['./static/description/banner.png']
 }
